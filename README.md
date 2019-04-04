@@ -1,6 +1,10 @@
 # Type-is-the-New-Sexy
-Everything about types (TypeScript, TypeORM etc)
 
+<p style="float: left">
+<img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" width="300"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg" width="150"/>
+ <img src="https://raw.githubusercontent.com/19majkel94/type-graphql/master/logo.png" width="300"/>
+</p>
 
 ## TypeScript
 
@@ -16,7 +20,7 @@ Everything about types (TypeScript, TypeORM etc)
 
 - [巧用 Typescript](https://zhuanlan.zhihu.com/p/39620591)
 
-- [TypeScript 2.8下的终极React组件模式](https://juejin.im/post/5b07caf16fb9a07aa83f2977)
+- [TypeScript 2.8 下的终极 React 组件模式](https://juejin.im/post/5b07caf16fb9a07aa83f2977)
 
 - [react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
 
