@@ -24,3 +24,4 @@
 
 - [react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet)
 
+- [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
